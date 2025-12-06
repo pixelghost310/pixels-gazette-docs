@@ -1,5 +1,3 @@
-# How Torrent Power is fooling regulations to extract the last penny from their consumers.
-
 On Thursday morning, I saw solar panels being planted in my residency building. It suddenly got me thinking about the amount I might save on my electricity bill. As we had limited rooftop space, we were only allotted one panel per flat. I am not sad but rather happy. I know electricity prices increase as we consume more energy. Being a finance nerd, I rushed to get my power bill to calculate the savings on the electricity bill from next month. However, the more I research, the more my illusion breaks.
 
 Firstly, as per table (1) below, the tariff changes based on slab are not significant enough to make sense of my above hypothesis. My energy consumption is about 180 units. Thus, comparing the first and the third slab, I was only saving about 1₹ per unit consumption. Though, it can seem like a significant reduction of about 25%, the actual price I pay has other charges such as Fuel and Power Purchase Price Adjustment (FPPPA).
