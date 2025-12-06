@@ -1,0 +1,19 @@
+name: Trigger Onrender Webhook (Build)
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  call-webhook:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send webhook
+        env:
+          HOOK: ${{ secrets.ONRENDER_HOOK }}
+        run: |
+          curl -X POST $HOOK \
+            -H "Content-Type: application/json" \
+            -d '{"event":"commit","branch":"master"}'
